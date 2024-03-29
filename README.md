@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=379AD6&height=200&section=header&text=gnlgk&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![gnlgk](https://github.com/gnlgk/gnlgk/assets/161431748/6b54c1d6-9171-4b95-8f55-0f2ad6449b65)
 
 ##
 
