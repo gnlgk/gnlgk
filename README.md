@@ -11,10 +11,6 @@
 <!-- 깃허브 스탯 -->
 ![gnlgk's 깃허브 스택](https://github-readme-stats.vercel.app/api?username=gnlgk&show_icons=true&theme=tokyonight)
 
-##
-
-
-
 <!-- 깃허브 언어 사용 순위 -->
 ![gnlgk's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=gnlgk&layout=compact&theme=dark)
 
@@ -32,27 +28,27 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 
+# 💀 class
 
-### Tools
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+[mainclass](https://gnlgk.github.io/class2024/)
+
+[blog](https://gnlgk.github.io/)
+
+#
+
+# ♠️ project
+
+[For my celeb] : php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/)
+
+[coffee menu] : python을 이용한 coffee meun 모음 사이트 [coffeemenu](https://coffee-api-rosy.vercel.app/)
+
+#
 
 
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnlgk@gmail.com)](mailto:gnlgk@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](mailto:gnlgk@naver.com)
-
-#
-
-# ♠️ project
-
-### For my celeb
- 
-- php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/)
-
-### coffee menu
-
-- python을 이용한 coffee meun 모음 사이트 [coffeemenu](https://coffee-api-rosy.vercel.app/)
 
   
 
