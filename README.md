@@ -5,7 +5,9 @@
 ##
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23859FDA&title_bg=%231541A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnlgk&layout=compact)
 ![gnlgk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnlgk&show_icons=true&theme=tokyonight)
+
 # 💎Skills
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
