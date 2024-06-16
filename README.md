@@ -46,7 +46,7 @@
 
 # ♠️ project
 
-### project1
+### For my celeb
  
 - php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/)  
 
