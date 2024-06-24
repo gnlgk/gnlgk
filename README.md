@@ -58,6 +58,10 @@
 [For my celeb] : php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/)
 
 [coffee menu] : python을 이용한 coffee meun 모음 사이트 [coffeemenu](https://coffee-api-rosy.vercel.app/)
+[coffee youtube] : youtube API를 이용한 coffee 사이트 [coffeeyoutube](https://attraction-xi.vercel.app/)
+[music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-two.vercel.app/)
+
+
 
 #
 
