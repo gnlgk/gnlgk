@@ -55,13 +55,13 @@
 
 # ♠️ project
 
-[For my celeb] : php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/)[github](https://github.com/gnlgk/formyceleb)    
+[For my celeb] : php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/) [github](https://github.com/gnlgk/formyceleb)    
 
-[coffee menu] : python을 이용한 coffee meun 모음 사이트 [coffeemenu](https://coffee-api-rosy.vercel.app/)[github](https://github.com/gnlgk/coffee-api)     
+[coffee menu] : python을 이용한 coffee meun 모음 사이트 [coffeemenu](https://coffee-api-rosy.vercel.app/) [github](https://github.com/gnlgk/coffee-api)     
 
-[coffee youtube] : youtube API를 이용한 coffee 사이트 [coffeeyoutube](https://attraction-xi.vercel.app/)[github](https://github.com/gnlgk/attraction)       
+[coffee youtube] : youtube API를 이용한 coffee 사이트 [coffeeyoutube](https://attraction-xi.vercel.app/) [github](https://github.com/gnlgk/attraction)       
 
-[music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-two.vercel.app/)[github](https://github.com/gnlgk/Music-youtube)       
+[music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-two.vercel.app/) [github](https://github.com/gnlgk/Music-youtube)       
 
 
 
