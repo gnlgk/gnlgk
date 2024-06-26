@@ -63,7 +63,7 @@
 
 [music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-two.vercel.app/) [github](https://github.com/gnlgk/Music-youtube) 
 
-[vue-first] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-first-three.vercel.app/) [github](https://github.com/gnlgk/Music-youtube)       
+[vue-first] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-first-three.vercel.app/) [github](https://github.com/gnlgk/vue-first)       
 
 
 
