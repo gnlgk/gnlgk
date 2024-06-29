@@ -61,7 +61,7 @@
 
 [coffee youtube] : youtube API를 이용한 coffee 사이트 [coffeeyoutube](https://attraction-xi.vercel.app/) [github](https://github.com/gnlgk/attraction)       
 
-[music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-two.vercel.app/) [github](https://github.com/gnlgk/Music-youtube) 
+[music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-chi.vercel.app/) [github](https://github.com/gnlgk/Music-youtube) 
 
 [vue-portfolio] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-first-three.vercel.app/) [github](https://github.com/gnlgk/vue-first)  
 
