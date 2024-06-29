@@ -65,7 +65,9 @@
 
 [vue-first] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-first-three.vercel.app/) [github](https://github.com/gnlgk/vue-first)  
 
-[vue-movie] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-movie-virid.vercel.app/) [github](https://github.com/gnlgk/vue-movie)       
+[vue-movie] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-movie-virid.vercel.app/) [github](https://github.com/gnlgk/vue-movie)    
+
+[next-portfolio] : next를 이용한 portfolio 사이트 [nextportfolio](https://next-site-beryl-gamma.vercel.app/) [github](https://github.com/gnlgk/next-site)       
 
 
 
