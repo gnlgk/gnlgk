@@ -55,19 +55,19 @@
 
 # ♠️ project
 
-[For my celeb] : php를 이용한 연예인 사진 모음 사이트 [formyceleb](http://wlsdks.dothome.co.kr/) [github](https://github.com/gnlgk/formyceleb)    
+[For my celeb] : php를 이용한 연예인 사진 모음 사이트 [site](http://wlsdks.dothome.co.kr/) [github](https://github.com/gnlgk/formyceleb)    
 
-[coffee menu] : python을 이용한 coffee meun 모음 사이트 [coffeemenu](https://coffee-api-rosy.vercel.app/) [github](https://github.com/gnlgk/coffee-api)     
+[coffee menu] : python을 이용한 coffee meun 모음 사이트 [site](https://coffee-api-rosy.vercel.app/) [github](https://github.com/gnlgk/coffee-api)     
 
-[coffee youtube] : youtube API를 이용한 coffee 사이트 [coffeeyoutube](https://attraction-xi.vercel.app/) [github](https://github.com/gnlgk/attraction)       
+[coffee youtube] : youtube API를 이용한 coffee 사이트 [site](https://attraction-xi.vercel.app/) [github](https://github.com/gnlgk/attraction)       
 
-[music youtube] : youtube API를 이용한 music 사이트 [musicyoutube](https://music-youtube-chi.vercel.app/) [github](https://github.com/gnlgk/Music-youtube) 
+[music youtube] : youtube API를 이용한 music 사이트 [site](https://music-youtube-chi.vercel.app/) [github](https://github.com/gnlgk/Music-youtube) 
 
-[vue-portfolio] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-first-three.vercel.app/) [github](https://github.com/gnlgk/vue-first)  
+[vue-portfolio] : vue를 이용한 portfolio 사이트 [site](https://vue-first-three.vercel.app/) [github](https://github.com/gnlgk/vue-first)  
 
-[vue-movie] : vue를 이용한 portfolio 사이트 [vueportfolio](https://vue-movie-virid.vercel.app/) [github](https://github.com/gnlgk/vue-movie)    
+[vue-movie] : vue를 이용한 portfolio 사이트 [site](https://vue-movie-virid.vercel.app/) [github](https://github.com/gnlgk/vue-movie)    
 
-[next-portfolio] : next를 이용한 portfolio 사이트 [nextportfolio](https://next-site-beryl-gamma.vercel.app/) [github](https://github.com/gnlgk/next-site)       
+[next-portfolio] : next를 이용한 portfolio 사이트 [site](https://next-site-beryl-gamma.vercel.app/) [github](https://github.com/gnlgk/next-site)       
 
 
 
