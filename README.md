@@ -8,9 +8,6 @@
 <!-- 깃허브 일일 조회수 -->
 ![gnlgk's 깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23859FDA&title_bg=%231541A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-<!-- 깃허브 스탯 -->
-![gnlgk's 깃허브 스택](https://github-readme-stats.vercel.app/api?username=gnlgk&show_icons=true&theme=tokyonight)
-
 <!-- 깃허브 언어 사용 순위 -->
 ![gnlgk's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=gnlgk&layout=compact&theme=dark)
 
@@ -40,7 +37,9 @@
 
 [blog](https://gnlgk.github.io/)
 
-#
+# 🎬 project
+
+[portfolio] : 포트폴리 [site](https://gnlgk.github.io/portfolio/index6.html) [github](https://github.com/gnlgk/portfolio)   
 
 # ♠️ project
 
@@ -65,8 +64,8 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnlgk@gmail.com)](mailto:gnlgk@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](mailto:gnlgk@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnlgk@gmail.com)](mailto:fdcwrt@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](mailto:fdcwrt@naver.com)
 
  
 
