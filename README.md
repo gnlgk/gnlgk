@@ -43,7 +43,7 @@
 
 [blog](https://gnlgk.github.io/)
 
-# 🎬 project
+# 🎬 portfolio
 
 [portfolio] : 포트폴리 [site](https://gnlgk.github.io/portfolio/index6.html) [github](https://github.com/gnlgk/portfolio)   
 
