@@ -41,8 +41,6 @@
 
 [mainclass](https://gnlgk.github.io/class2024/)
 
-[blog](https://gnlgk.github.io/)
-
 # 🎬 portfolio
 
 [portfolio] : [site](https://gnlgk.github.io/portfolio/index6.html) [github](https://github.com/gnlgk/portfolio)   
